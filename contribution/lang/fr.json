@@ -2824,7 +2824,7 @@
 			"vars": [
 				"playerName"
 			],
-			"trans": "Donnez le crédit de la rue",
+			"trans": "Donner de la crédibilité de rue",
 			"eng": "Give street cred"
 		}
 	},
